@@ -22,10 +22,10 @@ This is a Python-based calculator application that allows users to perform basic
 - Validations for operations.
 
 ## Example:
-Enter the first number: 10
-Enter the second number: 20
-Choose an operation: + for addition, - for subtraction, * for multiplication, / for division: +
-The result is: 30
+- Enter the first number: 10
+- Enter the second number: 20
+- Choose an operation: + for addition, - for subtraction, * for multiplication, / for division: +
+- The result is: 30
 
 ## Planned Improvements:
 	•	Add input validation for numbers to handle non-integer inputs.
