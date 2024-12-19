@@ -3,23 +3,18 @@ import art
 print("Welcome to the Calculator")
 print(art.logo)
 
-
 # Function Definitions
 def add(num1, num2):
     return num1 + num2
 
-
 def subtract(num1, num2):
     return num1 - num2
-
 
 def multiply(num1, num2):
     return num1 * num2
 
-
 def divide(num1, num2):
     return num1 / num2
-
 
 # Main Execution
 # Input Gathering
